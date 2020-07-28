@@ -1,4 +1,5 @@
 *.log
 mydir/
+static/mydir
 
 
